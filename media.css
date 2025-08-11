@@ -1,0 +1,1526 @@
+@media only screen and (min-width:200px) and (max-width:576px) {
+    .slider-section .carousel-item img {
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .nav-item {
+        padding: 8px 0px;
+        margin: 0px 42px;
+    }
+
+    .nav-href {
+        font-size: 15px;
+        font-family: "Nunito", sans-serif;
+        font-weight: 500;
+    }
+
+    .navbar-nav {
+        display: flex;
+        top: 0;
+    }
+
+    .patto-logo {
+        height: 76px;
+        width: 120px;
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+
+    .slide-first h5 {
+        font-size: 36px;
+        margin-bottom: 16px;
+    }
+
+    .slider-section {
+        top: 0px;
+    }
+
+    .slider-btn {
+        background-color: #F39110;
+        border-radius: 8px;
+        border: none;
+        width: 170px;
+        display: inline-block;
+        padding: 14px 20px 14px;
+        font-size: 12px;
+        border-radius: 5px;
+        font-size: 14px;
+        line-height: 12px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-weight: 600;
+    }
+
+    .carousel-item {
+        height: auto;
+        width: 100%;
+    }
+
+    .leaf-one {
+        max-width: 90px;
+        width: 100%;
+        position: absolute;
+        left: 30px;
+        top: 60px;
+    }
+
+    .leaf-second {
+        max-width: 100px;
+        width: 100%;
+        position: absolute;
+        right: -0px;
+        /* bottom: 230px; */
+        margin-top: 420px;
+    }
+
+    .main {
+        padding-top: 0px;
+    }
+
+    .sabifood-div {
+        padding: 0px 12px;
+        width: 100%;
+        height: auto;
+        text-align: center;
+        padding-top: 50px;
+    }
+
+    .img-block {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: -160px;
+    }
+
+    .img-block img {
+        height: 63px;
+        width: 300px;
+    }
+
+    .sabifood-div h1 {
+        font-size: 24px;
+        margin-top: -140px;
+    }
+
+    .sabifood-div br {
+        display: none;
+    }
+
+    .sabfood-btn {
+        background-color: #F39110;
+        padding: 14px 20px 12px;
+        font-size: 12px;
+        border-radius: 8px;
+        border: none;
+        width: 170px;
+        display: inline-block;
+        line-height: 12px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-weight: 600;
+    }
+
+    .services-row {
+        display: flex;
+        gap: 15px;
+    }
+
+    .service-card {
+        /* margin-top: 100px; */
+        display: flex;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .service-block {
+        height: 200px;
+        width: 200px;
+        margin: 0px 3px 20px;
+        background-color: #FFFFFF;
+        border-radius: 50%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .service-img {
+        width: 48px;
+        height: 50px;
+    }
+
+    .service-block h3 {
+        font-size: 18px;
+        margin: 20px 0px 0px;
+        color: #333333;
+    }
+
+    .object-img {
+        max-width: 100px;
+        width: 100%;
+        position: absolute;
+        bottom: -10px;
+        left: 0;
+    }
+
+    /* dsfdgfhjgykjhgefwd */
+
+    .twesty-card2 {
+        right: auto;
+    }
+
+    .twesty-block {
+        height: 345px;
+        width: 345px;
+    }
+
+    .testy-row {
+        margin-top: 0px;
+    }
+
+    .twesty-block img {
+        width: 345px;
+        height: 345px;
+        object-fit: cover;
+        object-position: center;
+        animation: rotate 120s linear infinite;
+        border-radius: 50%;
+        border: 2px solid #FFFFFF;
+        padding: 15px;
+        position: relative;
+        right: -60px;
+    }
+
+    .twesty-block h2 {
+        line-height: 40px;
+        font-size: 36px;
+        font-weight: 500;
+        font-family: 'Bodoni 72';
+        color: #e1000b;
+        margin-bottom: 5px;
+        font-style: italic;
+    }
+
+    .twesty-block br {
+        display: none;
+    }
+
+    .sabifood-div p {
+        font-size: 16px;
+        width: 100%;
+        padding-top: -20px;
+    }
+
+    /* dwfegrhbefwd */
+    .product-blog .product-img {
+        height: 255px;
+        width: 351px;
+    }
+
+    .product-blog {
+        position: relative;
+    }
+
+    .mirchi {
+        max-width: 30px;
+        height: 66px;
+        width: 100%;
+        position: absolute;
+        top: -10px;
+        margin-right: 0px;
+        margin-left: 30px;
+        transform: rotate(15deg);
+    }
+
+    .leaf-three {
+        max-width: 50px;
+        height: 66px;
+        width: 100%;
+        position: absolute;
+        position: absolute;
+        left: 15px;
+        bottom: 0;
+        top: 80px;
+    }
+
+    .content-blog {
+        height: auto;
+        width: 100%;
+    }
+
+    .content-blog h2 {
+        font-size: 24px;
+        margin-top: 24px;
+        bottom: 0;
+    }
+
+    .content-blog p {
+        font-size: 18px;
+        font-family: "Bodoni Moda", serif;
+    }
+
+    .content-blog br {
+        display: none;
+    }
+
+    .content-btn {
+        background-color: #F39110;
+        padding: 8px 25px 8px;
+        font-size: 12px;
+        border-radius: 8px;
+        border: none;
+        width: 120px;
+        display: inline-block;
+    }
+
+    .product-blog .product-img2 {
+        height: 255px;
+        width: 351px;
+    }
+
+    .onion-top {
+        max-width: 60px;
+        width: 100%;
+        position: absolute;
+        top: -4px;
+        right: 65px;
+    }
+
+    .onion-bottom {
+        max-width: 70px;
+        width: 100%;
+        position: absolute;
+        left: 330px;
+        bottom: 0px;
+        top: 130px;
+    }
+
+    .product-blog .product-img3 {
+        height: 255px;
+        width: 351px;
+    }
+
+    .leaf4 {
+        max-width: 50px;
+        width: 100%;
+        height: 124px;
+        position: absolute;
+        top: -40px;
+        margin-right: 0px;
+        margin-left: 20px;
+        transform: rotate(15deg);
+    }
+
+    .counter-card h2 {
+        font-size: 24px;
+        margin: 0px 0px 10px;
+    }
+
+    .counter-card br {
+        display: none;
+    }
+
+    .counting-row span {
+        font-size: 20px;
+        font-family: 900;
+        color: #F39110;
+    }
+
+    .counting-row h3 {
+        font-size: 16px;
+        color: #333333;
+    }
+
+    .content-blog br {
+        display: none;
+    }
+
+    .counter-card {
+        height: auto;
+        width: 100%;
+    }
+
+    .counter-section {
+        height: auto;
+        width: 100%;
+    }
+
+    .counting-row {
+        margin-top: 40px;
+    }
+
+    .counting-block {
+        height: auto;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: start;
+        gap: 20px;
+    }
+
+    .counting-btn {
+        background-color: #F39110;
+        padding: 13px 20px 12px;
+        border-radius: 5px;
+        font-size: 12px;
+        line-height: 12px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-weight: 600;
+        border: none;
+        color: #fff;
+    }
+
+
+    /* asdcfbgnfdwfeg */
+
+    .flavours-card {
+        height: auto;
+        width: 100%;
+        padding: 0px 15px;
+    }
+
+    .flavours-container h2 {
+        font-size: 24px;
+        padding-top: 70px;
+    }
+
+    .flavours-container br {
+        display: none;
+    }
+
+    .flavours-card img {
+        height: auto;
+        width: 100%;
+    }
+
+    .testimonial-section {
+        background-image: url("images/right-masala-img.jpg");
+        background-position: top right;
+        background-repeat: no-repeat;
+        background-size: auto;
+        margin-top: 350px;
+        height: 200px;
+        background-size: contain;
+
+    }
+
+    .testimonial-card {
+        /* max-width: 820px; */
+        width: 100%;
+        position: relative;
+        right: 0px;
+        height: 100%;
+        margin-top: -300px;
+    }
+
+    .testimonial-card p {
+        font-size: 26px;
+        padding-top: 30px;
+    }
+
+    .insta-title {
+        font-size: 24px;
+    }
+
+    .insta-right {
+        display: flex;
+        padding-top: 150px;
+        flex-direction: column;
+    }
+
+    .insta-right br {
+        display: none;
+
+    }
+
+    .insta-follow {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .bg-orange {
+        height: auto;
+        width: 100%;
+    }
+
+    .bg-orange h2 {
+        font-size: 24px;
+    }
+
+    .bg-orange p {
+        font-size: 20px;
+        width: 100%;
+    }
+
+    .bg-orange br {
+        display: none;
+    }
+
+    .orange-btn {
+        height: 38px;
+        width: 105px;
+        background-color: #e1000B;
+        color: #FFFFFF;
+        padding: 6px 15px 15px;
+        border: none;
+        border-radius: 5px;
+    }
+
+    .footer-block .title {
+        font-size: 20px;
+    }
+
+    .footer-block b {
+        font-size: 16px;
+        font-weight: bolder;
+    }
+
+    .footer-block p {
+        margin-bottom: 0;
+        font-size: 16px;
+        margin-right: 0;
+    }
+
+    .footer-block {
+        height: auto;
+        width: 100%;
+    }
+
+    .footer-block a {
+        text-decoration: none;
+        color: #333;
+        font-size: 15px;
+    }
+
+    .footer-row {
+        display: flex;
+        gap: 40px;
+    }
+}
+
+@media (max-width:1280px) {
+    .leaf-one {
+        max-width: 120px;
+        width: 100%;
+        position: absolute;
+        left: 80px;
+        top: 140px;
+    }
+
+    .leaf-second {
+        max-width: 160px;
+        width: 100%;
+        position: absolute;
+        right: 0px;
+        margin-top: 350px;
+    }
+
+    .sabifood-div {
+        margin-top: 10px;
+        padding: 20px 12px;
+
+    }
+
+    .sabfood-row {
+        margin-top: -800px;
+    }
+
+
+    .service-block {
+        height: 240px;
+        width: 240px;
+        text-align: center;
+    }
+
+    .service-img {
+        width: 68px;
+        height: 68px;
+    }
+
+    .service-block h3 {
+        font-size: 24px;
+        margin: 20px 0px 0px;
+        color: #333333;
+    }
+
+    .object-img {
+        max-width: 170px;
+        width: 100%;
+        position: absolute;
+        bottom: -200px;
+        left: 0;
+    }
+
+    .twesty-block h2 {
+        /* font-family: "Bodoni Moda", serif; */
+        line-height: 80px;
+        font-size: 68px;
+        font-family: 'Bodoni 72';
+        color: #e1000b;
+        margin-bottom: 5px;
+        font-style: italic;
+    }
+
+    .twesty-block img {
+        width: 700px;
+        height: 700px;
+        object-fit: cover;
+        object-position: center;
+        animation: rotate 120s linear infinite;
+        border-radius: 50%;
+        border: 8px solid #FFFFFF;
+        background-color: #fff;
+        padding: 15px;
+        position: relative;
+        right: -140px;
+    }
+
+    .twesty-block {
+        height: 700px;
+        width: 700px;
+    }
+
+    /* adsfdgbfdvfs */
+    .product-img {
+        height: 466px;
+        width: 640px;
+    }
+
+    .mirchi {
+        max-width: 70px;
+        width: 100%;
+        position: absolute;
+        top: -40px;
+        margin-right: -80px;
+        margin-left: 340px;
+        transform: rotate(15deg);
+    }
+
+    .leaf-three {
+        max-width: 70px;
+        width: 100%;
+        position: absolute;
+        position: absolute;
+        left: -10px;
+        bottom: 0;
+        top: 260px;
+    }
+
+    .content-blog h2 {
+        font-size: 32px;
+        margin: 0px 0px 20px;
+        font-family: "Bodoni Moda", serif;
+        color: #e1000B;
+        font-style: italic;
+    }
+
+    .content-btn {
+        color: #fff;
+    }
+
+    .product-img2 {
+        height: 466px;
+        width: 640px;
+    }
+
+    .onion-top {
+        max-width: 110px;
+        width: 100%;
+        position: absolute;
+        top: -40px;
+        right: 75px;
+    }
+
+    .onion-bottom {
+        max-width: 120px;
+        width: 100%;
+        position: absolute;
+        right: -0px;
+        bottom: 0px;
+        top: 250px;
+    }
+
+    .flavours-row {
+        display: flex;
+        /* flex-direction: column; */
+        align-items: center;
+        justify-content: center;
+    }
+
+    .flavours-card {
+        height: 321px;
+        width: 253px;
+        padding: 0px 15px;
+    }
+
+    .flavours-container h2 {
+        padding-top: 200px;
+        color: #e1000B;
+        font-size: 36px;
+        margin: 0px 0px 20px;
+    }
+
+    .flavours-card img {
+        height: 321px;
+        width: 263px;
+    }
+
+    .slider-section {
+        top: 0px;
+    }
+
+
+
+}
+
+@media (max-width:1024px) {
+    .leaf-one {
+        max-width: 120px;
+        width: 100%;
+        position: absolute;
+        left: 0px;
+        top: 240px;
+    }
+
+    .leaf-second {
+        max-width: 160px;
+        width: 100%;
+        position: absolute;
+        right: 0px;
+        margin-top: 450px;
+    }
+
+    .service-block {
+        height: 200px;
+        width: 200px;
+        text-align: center;
+    }
+
+    .service-img {
+        width: 48px;
+        height: 50px;
+    }
+
+    .service-block h3 {
+        font-size: 24px;
+        margin: 20px 0px 0px;
+        color: #333333;
+    }
+
+    .twesty-block img {
+        width: 600px;
+        height: 600px;
+        object-fit: cover;
+        object-position: center;
+        animation: rotate 120s linear infinite;
+        border-radius: 50%;
+        border: 8px solid #FFFFFF;
+        background-color: #fff;
+        padding: 15px;
+        position: relative;
+        left: -80px;
+    }
+
+    .twesty-block {
+        height: 700px;
+        width: 700px;
+    }
+
+    .twesty-block h2 {
+        /* font-family: "Bodoni Moda", serif; */
+        line-height: 50px;
+        font-size: 48px;
+        font-family: 'Bodoni 72';
+        color: #e1000b;
+        margin-bottom: 5px;
+        font-style: italic;
+    }
+
+    .twesty-block p {
+        margin: 20px 0px 20px;
+    }
+
+    /* adsfdgbfdvfs */
+    .product-img {
+        height: 390px;
+        width: 536px;
+    }
+
+    .mirchi {
+        max-width: 40px;
+        width: 100%;
+        position: absolute;
+        top: -40px;
+        margin-right: -40px;
+        margin-left: 230px;
+        transform: rotate(15deg);
+    }
+
+    .leaf-three {
+        max-width: 60px;
+        width: 100%;
+        position: absolute;
+        position: absolute;
+        left: -10px;
+        bottom: 0;
+        top: 230px;
+    }
+
+    .content-blog h2 {
+        font-size: 28px;
+        margin: 0px 0px 20px;
+        font-family: "Bodoni Moda", serif;
+        color: #e1000B;
+        font-style: italic;
+    }
+
+    .content-btn {
+        color: #fff;
+    }
+
+    .product-img2 {
+        height: 390px;
+        width: 536px;
+    }
+
+    .onion-top {
+        max-width: 90px;
+        width: 100%;
+        position: absolute;
+        top: -40px;
+        right: 75px;
+    }
+
+    .onion-bottom {
+        max-width: 100px;
+        width: 100%;
+        position: absolute;
+        right: -0px;
+        bottom: 0px;
+        top: 250px;
+    }
+
+    .leaf4 {
+        max-width: 70px;
+        width: 100%;
+        height: 124px;
+        position: absolute;
+        top: -40px;
+        margin-right: -80px;
+        margin-left: 260px;
+        transform: rotate(15deg);
+    }
+
+    .content-blog {
+        display: flex;
+        height: 390px;
+        width: 536px;
+    }
+
+    .counting-block {
+        height: 75px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .counting-row span {
+        font-size: 40px;
+        color: #F39110;
+    }
+
+    .counting-row h3 {
+        font-size: 18px;
+        color: #333333;
+    }
+
+    .flavours-row {
+        display: flex;
+        /* flex-direction: column; */
+        align-items: center;
+        justify-content: center;
+    }
+
+    .flavours-card {
+        height: 247px;
+        width: 195px;
+        padding: 0px 15px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .flavours-container h2 {
+        padding-top: 200px;
+        color: #e1000B;
+        font-size: 36px;
+        margin: 0px 0px 20px;
+    }
+
+    .flavours-card img {
+        height: 247px;
+        width: 195px;
+    }
+
+    .testimonial-card p {
+        color: #333;
+        margin-bottom: 25px;
+        line-height: 40px;
+        font-size: 28px;
+        font-weight: normal;
+        padding: 0 10px;
+        font-style: italic;
+        font-family: "Bodoni Moda", serif;
+    }
+
+    .testimonial-card::before {
+        content: "";
+        position: absolute;
+        width: 80px;
+        height: 70px;
+        background-image: url(images/quote.svg);
+        background-size: cover;
+        top: -35px;
+        left: -135px;
+    }
+
+
+}
+
+@media (max-width:820px) {
+    .img-block img {
+        height: 88px;
+        width: 420px;
+        margin-top: 160px;
+    }
+
+    .leaf-one {
+        max-width: 100px;
+        width: 100%;
+        position: absolute;
+        left: 0px;
+        top: 240px;
+    }
+
+    .leaf-second {
+        max-width: 120px;
+        width: 100%;
+        position: absolute;
+        right: 0px;
+        margin-top: 650px;
+    }
+
+    .services-row {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .service-card {
+        padding: 0px 12px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .twesty-block img {
+        width: 500px;
+        height: 500px;
+        object-fit: cover;
+        object-position: center;
+        animation: rotate 120s linear infinite;
+        border-radius: 50%;
+        border: 8px solid #FFFFFF;
+        background-color: #fff;
+        padding: 15px;
+        position: relative;
+        left: -110px;
+    }
+
+    .twesty-block {
+        height: 700px;
+        width: 700px;
+    }
+
+    .twesty-block h2 {
+        /* font-family: "Bodoni Moda", serif; */
+        line-height: 50px;
+        font-size: 48px;
+        font-family: 'Bodoni 72';
+        color: #e1000b;
+        margin-bottom: 5px;
+        font-style: italic;
+    }
+
+    .twesty-block p {
+        margin: 20px 0px 20px;
+    }
+
+    .object-img {
+        max-width: 100px;
+        width: 100%;
+        position: absolute;
+        bottom: -140px;
+        left: 0;
+    }
+
+    .testy-row {
+        margin-top: -80px;
+    }
+
+    /* adsfdgbfdvfs */
+    .product-img {
+        width: 396px;
+        height: 288px;
+    }
+
+    .mirchi {
+        max-width: 30px;
+        width: 100%;
+        position: absolute;
+        top: -20px;
+        margin-right: -40px;
+        margin-left: 200px;
+        transform: rotate(15deg);
+    }
+
+    .leaf-three {
+        max-width: 50px;
+        width: 100%;
+        position: absolute;
+        position: absolute;
+        left: -10px;
+        bottom: 0;
+        top: 160px;
+    }
+
+    .content-blog h2 {
+        font-size: 24px;
+        margin: 0px 0px 20px;
+        font-family: "Bodoni Moda", serif;
+        color: #e1000B;
+        font-style: italic;
+    }
+
+    .content-btn {
+        color: #fff;
+    }
+
+    .product-img2 {
+        width: 396px;
+        height: 288px;
+    }
+
+    .onion-top {
+        max-width: 60px;
+        width: 100%;
+        position: absolute;
+        top: -20px;
+        right: 85px;
+    }
+
+    .onion-bottom {
+        max-width: 70px;
+        width: 100%;
+        position: absolute;
+        right: 10px;
+        bottom: 0px;
+        top: 170px;
+    }
+
+    .leaf4 {
+        max-width: 50px;
+        width: 100%;
+        height: 124px;
+        position: absolute;
+        top: -40px;
+        margin-right: -90px;
+        margin-left: 180px;
+        transform: rotate(15deg);
+    }
+
+    .content-blog {
+        display: flex;
+        height: 288px;
+        width: 276px;
+    }
+
+    .flavours-row {
+        display: flex;
+        /* flex-direction: column; */
+        align-items: center;
+        justify-content: center;
+    }
+
+    .flavours-card {
+        height: auto;
+        width: 100%;
+        padding: 0px 15px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .flavours-container h2 {
+        padding-top: 200px;
+        color: #e1000B;
+        font-size: 36px;
+        margin: 0px 0px 20px;
+    }
+
+    .flavours-card img {
+        height: auto;
+        width: 100%;
+    }
+
+    .testimonial-card p {
+        color: #333;
+        margin-bottom: 25px;
+        line-height: 30px;
+        font-size: 24px;
+        margin-left: -80px;
+        font-weight: normal;
+        padding: 0 10px;
+        width: 100%;
+        font-style: italic;
+        font-family: "Bodoni Moda", serif;
+    }
+
+    .testimonial-card::before {
+        content: "";
+        position: absolute;
+        width: 40px;
+        height: 30px;
+        background-image: url(images/quote.svg);
+        background-size: cover;
+        top: -35px;
+        left: -135px;
+    }
+
+
+
+
+}
+
+@media (max-width:540px) {
+    .sabfood-row {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .img-block img {
+        height: 70px;
+        width: 380px;
+        margin-top: 0px;
+    }
+
+    .main {
+        padding: 150px 0px 0px 0px;
+    }
+
+    .leaf-one {
+        max-width: 80px;
+        width: 100%;
+        position: absolute;
+        left: 20px;
+        top: 0px;
+    }
+
+    .leaf-second {
+        max-width: 120px;
+        width: 100%;
+        position: absolute;
+        right: 0px;
+        margin-top: 250px;
+    }
+
+    .twesty-card {
+        order: 2;
+    }
+
+    .twesty-card2 {
+        order: 1;
+    }
+
+    .twesty-block h2 {
+        /* font-family: "Bodoni Moda", serif; */
+        line-height: 40px;
+        font-size: 36px;
+        font-family: 'Bodoni 72';
+        color: #e1000b;
+        margin-top: -50px;
+        font-style: italic;
+    }
+
+    .twesty-block img {
+        width: 350px;
+        height: 350px;
+        object-fit: cover;
+        object-position: center;
+        animation: rotate 120s linear infinite;
+        border-radius: 50%;
+        border: 8px solid #FFFFFF;
+        background-color: #fff;
+        padding: 15px;
+        position: relative;
+        left: 0px;
+    }
+
+    .twesty-block {
+        margin-top: 100px;
+        height: auto;
+        width: 100%;
+    }
+
+    .product-row {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .content-blog {
+        display: flex;
+        height: auto;
+        width: 100%;
+        order: 1;
+    }
+
+    .product-blog {
+        order: 2;
+        display: flex;
+    }
+
+    /* adsfdgbfdvfs */
+    .product-img {
+        width: 100%;
+        height: auto;
+    }
+
+    .mirchi {
+        max-width: 30px;
+        width: 100%;
+        position: absolute;
+        top: -20px;
+        margin-right: -40px;
+        margin-left: 0px;
+        transform: rotate(15deg);
+    }
+
+    .leaf-three {
+        max-width: 50px;
+        width: 100%;
+        position: absolute;
+        position: absolute;
+        left: 90px;
+        bottom: 0;
+        top: 120px;
+    }
+
+    .content-blog h2 {
+        font-size: 24px;
+        margin: 0px 0px 20px;
+        font-family: "Bodoni Moda", serif;
+        color: #e1000B;
+        font-style: italic;
+    }
+
+    .content-btn {
+        color: #fff;
+    }
+
+    .product-img2 {
+        width: 100%;
+        height: auto;
+    }
+
+    .onion-top {
+        max-width: 60px;
+        width: 100%;
+        position: absolute;
+        top: -20px;
+        right: 140px;
+    }
+
+    .onion-bottom {
+        max-width: 70px;
+        width: 100%;
+        position: absolute;
+        left: 390px;
+        bottom: 0px;
+        top: 140px;
+    }
+
+    .leaf4 {
+        max-width: 50px;
+        width: 100%;
+        height: 124px;
+        position: absolute;
+        top: -40px;
+        margin-right: 190px;
+        margin-left: 180px;
+        transform: rotate(15deg);
+    }
+
+    .counting-block {
+        display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+    }
+
+    .counting-block h3 {
+        margin-top: 20px;
+    }
+
+    .testimonial-card p {
+        color: #333;
+        margin-bottom: 25px;
+        line-height: 30px;
+        font-size: 24px;
+        margin-left: 20px;
+        font-weight: normal;
+        padding: 0 10px;
+        width: 100%;
+        font-style: italic;
+        font-family: "Bodoni Moda", serif;
+    }
+
+    .testimonial-card::before {
+        content: "";
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-size: cover;
+        top: -35px;
+        left: -135px;
+    }
+
+    .product-desc .row {
+        flex-direction: column !important;
+        /* force column stacking */
+    }
+
+    .product-row .product-blog {
+        order: 1 !important;
+    }
+
+    .product-row .content-blog {
+        order: 2 !important;
+    }
+
+
+}
+
+@media (max-width:344px) {
+    .img-block img {
+        height: 60px;
+        width: 340px;
+        margin-top: 0px;
+    }
+
+    .leaf-one {
+        max-width: 90px;
+        width: 100%;
+        position: absolute;
+        left: 20px;
+        top: 100px;
+    }
+
+    .leaf-second {
+        max-width: 120px;
+        width: 100%;
+        position: absolute;
+        right: -40px;
+        margin-top: 470px;
+    }
+
+    .twesty-block img {
+        width: 330px;
+        height: 330px;
+        object-fit: cover;
+        object-position: center;
+        animation: rotate 120s linear infinite;
+        border-radius: 50%;
+        border: 8px solid #FFFFFF;
+        background-color: #fff;
+        padding: 15px;
+        position: relative;
+        left: 0px;
+    }
+
+    .twesty-block h2 {
+        /* font-family: "Bodoni Moda", serif; */
+        line-height: 36px;
+        font-size: 33px;
+        font-family: 'Bodoni 72';
+        color: #e1000b;
+        margin-top: -50px;
+        font-style: italic;
+    }
+
+    .content-blog {
+        display: flex;
+        height: auto;
+        width: 100%;
+        order: 1;
+    }
+
+    .product-blog {
+        order: 2;
+        display: flex;
+    }
+
+    /* adsfdgbfdvfs */
+    .product-img {
+        width: 320px;
+        height: 232px;
+    }
+
+    .mirchi {
+        max-width: 30px;
+        width: 100%;
+        position: absolute;
+        top: -20px;
+        margin-right: -40px;
+        margin-left: 0px;
+        transform: rotate(15deg);
+    }
+
+    .leaf-three {
+        max-width: 50px;
+        width: 100%;
+        position: absolute;
+        position: absolute;
+        left: 90px;
+        bottom: 0;
+        top: 120px;
+    }
+
+    .content-blog h2 {
+        font-size: 24px;
+        margin: 0px 0px 20px;
+        font-family: "Bodoni Moda", serif;
+        color: #e1000B;
+        font-style: italic;
+    }
+
+    .content-btn {
+        color: #fff;
+    }
+
+    .product-img2 {
+        width: 320px;
+        height: 232px;
+    }
+
+    .onion-top {
+        max-width: 60px;
+        width: 100%;
+        position: absolute;
+        top: -20px;
+        right: 140px;
+    }
+
+    .onion-bottom {
+        max-width: 70px;
+        width: 100%;
+        position: absolute;
+        left: 280px;
+        bottom: 0px;
+        top: 140px;
+    }
+
+    .leaf4 {
+        max-width: 50px;
+        width: 100%;
+        height: 124px;
+        position: absolute;
+        top: -40px;
+        margin-right: 190px;
+        margin-left: 180px;
+        transform: rotate(15deg);
+    }
+
+    .flavours-row {
+        display: flex;
+        /* flex-direction: column; */
+        align-items: center;
+        justify-content: center;
+    }
+
+    .flavours-card {
+        height: auto;
+        width: 100%;
+        padding: 0px 15px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .flavours-container h2 {
+        padding-top: 200px;
+        color: #e1000B;
+        font-size: 36px;
+        margin: 0px 0px 20px;
+    }
+
+    .flavours-card img {
+        height: auto;
+        width: 100%;
+    }
+
+    .insta-title {
+        padding-top: 300px;
+    }
+     .product-row .product-blog {
+        order: 1 !important;
+    }
+
+    .product-row .content-blog {
+        order: 2 !important;
+    }
+
+}
+
+.navbar {
+    background-color: #fff;
+    padding: 0.5rem 1rem;
+}
+
+/* Desktop menu styles */
+@media (min-width: 1025px) {
+    .navbar-collapse {
+        display: flex !important;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .navbar-nav {
+        gap: 20px;
+    }
+}
+
+/* Tablet & Mobile: only logo + toggle */
+@media (max-width: 1024px) {
+
+    .left-menu,
+    .right-menu {
+        display: none !important;
+    }
+
+    .navbar-toggler {
+        display: block !important;
+    }
+}
+
+/* Mobile menu link style */
+.offcanvas-body .nav-link {
+    font-size: 1.1rem;
+    padding: 10px 0;
+    border-bottom: 1px solid #eee;
+}
